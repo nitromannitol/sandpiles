@@ -4,4 +4,4 @@ openCL code for Julia 0.5/0.6 which can be used to generate large sandpiles quic
 
 see example.jl examples
 
-see http://home.uchicago.edu/~ahmedb/sandpiles/sandpiles.html sandpile pictures
+see http://home.uchicago.edu/~ahmedb/sandpiles/sandpiles.html for sandpile pictures
