@@ -31,7 +31,3 @@ did not appear to work with newer Julia versions. Use
 The code is by **Ahmed Bou-Rabee**. The up-to-date code in
 [arbitrarydim_sandpiles](https://github.com/nitromannitol/arbitrarydim_sandpiles) accompanies
 *Dynamic dimensional reduction in the Abelian sandpile*; see its README for the citation.
-
-## License
-
-The code is licensed under the Apache License 2.0; see [`LICENSE`](LICENSE).
