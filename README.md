@@ -18,9 +18,6 @@ returns the stable sandpile and the odometer, the number of times each site topp
 the stabilization, both as `N × M` arrays. [`example.jl`](example.jl) shows three uses: a
 single source, the all-4s sandpile on a square, and the all-4s sandpile on a diamond domain.
 
-A page of sandpile pictures was formerly published at
-`http://home.uchicago.edu/~ahmedb/sandpiles/sandpiles.html`; it is no longer online.
-
 ## Running
 
 The code was written for Julia 0.5 and 0.6 with the OpenCL.jl package of that time and needs
@@ -31,7 +28,7 @@ did not appear to work with newer Julia versions. Use
 
 ## Authors and citation
 
-The code is by **Ahmed Bou-Rabee**. There is no associated paper. The up-to-date code in
+The code is by **Ahmed Bou-Rabee**. The up-to-date code in
 [arbitrarydim_sandpiles](https://github.com/nitromannitol/arbitrarydim_sandpiles) accompanies
 *Dynamic dimensional reduction in the Abelian sandpile*; see its README for the citation.
 
