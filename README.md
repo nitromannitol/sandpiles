@@ -26,8 +26,8 @@ removed in Julia 1.0 (for example `Vector{Float32}(1)` in `sandpile_init.jl`), a
 did not appear to work with newer Julia versions. Use
 [arbitrarydim_sandpiles](https://github.com/nitromannitol/arbitrarydim_sandpiles) instead.
 
-## Authors and citation
+## Citation
 
-The code is by **Ahmed Bou-Rabee**. The up-to-date code in
+The up-to-date code in
 [arbitrarydim_sandpiles](https://github.com/nitromannitol/arbitrarydim_sandpiles) accompanies
 *Dynamic dimensional reduction in the Abelian sandpile*; see its README for the citation.
